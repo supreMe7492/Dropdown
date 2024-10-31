@@ -1,0 +1,19 @@
+{
+  "name": "supreme-dropdown-menu",
+  "version": "1.0.0",
+  "description": "create a dropdown",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supreMe7492/Dropdown.git"
+  },
+  "author": "Supreme Raut",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/supreMe7492/Dropdown/issues"
+  },
+  "homepage": "https://github.com/supreMe7492/Dropdown#readme"
+}
