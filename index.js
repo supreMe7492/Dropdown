@@ -19,4 +19,4 @@ document.addEventListener("click",(e)=>{
 
 dropdown(".dropdown-button",".dropdown-menu")
 
-module.exports = dropdown;
+export {dropdown};
