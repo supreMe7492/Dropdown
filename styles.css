@@ -1,0 +1,28 @@
+.dropdown-button{
+    
+           background-color: aquamarine;
+           border: 1px solid aquamarine;
+           height: 2rem;
+           width: 112px;
+           border-radius: 5px;
+           cursor: pointer;
+}
+
+.dropdown-menu > li > a{
+    text-decoration: none;
+    color:blueviolet;
+}
+
+.dropdown-menu{
+    
+    width : 4.5rem;
+    margin-top: 3px;
+    display: none;
+    list-style-type: none;
+    background-color: antiquewhite;
+    
+}
+
+.dropdown-menu.show{
+    display: block;
+}
